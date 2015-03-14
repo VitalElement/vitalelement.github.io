@@ -1,0 +1,7 @@
+pygments: true
+relative_permalinks: false
+name: BitThunder Site and Blog
+description: All the latest information on the BitThunder RTOS porject.
+gh-blob-url: https://github.com/jameswalmsley/bitthunder/blob/master
+url: http://bitthunder.org
+

@@ -1,0 +1,17 @@
+<ul>
+  <li class="{% if page.overview %}current{% endif %}">
+    <a href="{{ site.url }}/">Overview</a>
+  </li>
+  <li class="{% if page.blog %}current{% endif %}">
+    <a href="{{ site.url }}/blog/home">Blog</a>
+  </li>
+  <li class="{% if page.docs %}current{% endif %}">
+    <a href="{{ site.url }}/docs/home">Docs</span></a>
+  </li>
+  <li class="{% if page.projects %}current{% endif %}">
+    <a href="{{ site.url }}/projects/home">Projects</span></a>
+  </li>
+  <li class="">
+    <a href="https://github.com/jameswalmsley/bitthunder"><span class="hide-on-mobiles">View on </span>GitHub</a>
+  </li>
+</ul>
