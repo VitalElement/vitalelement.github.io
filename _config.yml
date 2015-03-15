@@ -1,7 +1,7 @@
 pygments: true
 relative_permalinks: false
-name: BitThunder Site and Blog
-description: All the latest information on the BitThunder RTOS porject.
+name: VitalElement
+description: Simplicity in embedded software dvelopement. IDE and tools.
 gh-blob-url: https://github.com/jameswalmsley/bitthunder/blob/master
-url: http://bitthunder.org
+url: http://vitalelement.github.io
 
