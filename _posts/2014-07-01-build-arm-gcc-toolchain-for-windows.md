@@ -10,7 +10,7 @@ I've been trying to sucessfully compile GCC for Windows to allow me to maintain 
 (BitThunder development kit). Well the documentation on the internet describing how to do this is thin and far between.
 The good news is that I've finally managed to create one.
 
-# Strategies
+# Strat
 Most guides talk about setting up MSYS and MinGW or cygwin or some other native Windows build environment. I explicitly do NOT
 recommend this approach. Its extremely slow and tedious, you will simply waste months of your life!
 
