@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <!-- For more information on Entity Framework configuration, visit http://go.microsoft.com/fwlink/?LinkID=237468 -->
+    <section name="entityFramework" type="System.Data.Entity.Internal.ConfigFile.EntityFrameworkSection, EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+  </configSections>
+  <connectionStrings configProtectionProvider="RsaProtectedConfigurationProvider">
+    <EncryptedData Type="http://www.w3.org/2001/04/xmlenc#Element"
+      xmlns="http://www.w3.org/2001/04/xmlenc#">
+      <EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#tripledes-cbc" />
+      <KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <EncryptedKey xmlns="http://www.w3.org/2001/04/xmlenc#">
+          <EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#rsa-1_5" />
+          <KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <KeyName>Rsa Key</KeyName>
+          </KeyInfo>
+          <CipherData>
+            <CipherValue>M8rpxad9zQz+mFjiKJVolzhJr0iUQDYPVWYMmpAZglPJpQ7ISHABGBojyfJZ0Za00x5dkevhwfv+wMk4c+70xaNTNFwAeURL5WJUCVBkQkIQ8aC/ZY/Yo63M00rrfH4x+KaANAtC/BXJkUsqUH+aAC37YgJ+G1Zb+cyxTVO4Vq0=</CipherValue>
+          </CipherData>
+        </EncryptedKey>
+      </KeyInfo>
+      <CipherData>
+        <CipherValue>Q9wZclEqZLqYjNCkznBhUOfA5DgsYF+gEviGwHblE5tCsvh6mpe72u5ZFxTqZSpuRNDXNj9M753ne8fRw1Qyv6kuBxXZItt9lG8JK2EXV0IfTOHVclvfKsm15azMXjyFcYhVa7a+Vt0uDG7ONJVgE/9p+LrTpm+J9ylieirV9LLFoBKUFmzliYCDawdvfX2+NCftxRDthSbAPxCMHO0Faq929Hs209UDI792St6OzXBdKE+oXJ8kA3LMKUKcxOcA5J/SEKBbMCUwXVUcxE3t3dogSmdVzcKsw/RJQjWslrfsdzMJgo5iGKu/aX/gLA3sBOmMoMVeQgaVdNUfT3IxhGigAE7V927T</CipherValue>
+      </CipherData>
+    </EncryptedData>
+  </connectionStrings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.1" />
+  </startup>
+  <entityFramework>
+    <defaultConnectionFactory type="System.Data.Entity.Infrastructure.SqlConnectionFactory, EntityFramework" />
+    <providers>
+      <provider invariantName="MySql.Data.MySqlClient" type="MySql.Data.MySqlClient.MySqlProviderServices, &#xD;&#xA;        MySql.Data.Entity.EF6"
+                               />
+      <provider invariantName="System.Data.SqlClient" type="System.Data.Entity.SqlServer.SqlProviderServices, &#xD;&#xA;        EntityFramework.SqlServer"
+                                   />
+    </providers>
+  </entityFramework>
+</configuration>
