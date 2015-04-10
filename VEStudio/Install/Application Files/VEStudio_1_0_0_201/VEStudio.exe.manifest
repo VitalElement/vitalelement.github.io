@@ -206,7 +206,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RzUgdqDlcy0IHQXIpjqdc5tDbzQJzk1U0uwDvyUalRQ=</dsig:DigestValue>
+        <dsig:DigestValue>NEDCU+X6LDaew9stdS2AtHPfIBhU+kSCAIsZN/aESp8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -230,7 +230,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3o8rIQ9xM9YBCNyPFhUrCAeNBw+32cxKGQJW3bdVhZw=</dsig:DigestValue>
+        <dsig:DigestValue>lASbwyjgW5oDaxAoAnhotr4EmydesXhnY6OVqapVLkU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -242,7 +242,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>REBKEVym0RDEWKwR/Xs/oCir4jx+kLgdJsblxMl5aLc=</dsig:DigestValue>
+        <dsig:DigestValue>JN4fgBJQjkJN3UCYqnNVmOYYYxC58p6DQCS2ky8DkqU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -254,7 +254,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pTTd0PzOnxvKes4u5MBc0X/8e2XLc/XHiBn5tg+MN1Y=</dsig:DigestValue>
+        <dsig:DigestValue>y7H52ZhgW9LLhNh05KvNUjy8DPzm/bOvddS3/J94yXc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -266,7 +266,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>duRmt6Sd8VMNWbWvPNOEARtspleCHk/uUDwkkA6okAI=</dsig:DigestValue>
+        <dsig:DigestValue>nerJUvASKpjOWC3qXOIJQgkSmE4n0ZtqfZrjm/3WFLE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -278,7 +278,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RY6obu3dKr06KVTgzMZXhKbDJWvEUykjEoMJSl1mj5I=</dsig:DigestValue>
+        <dsig:DigestValue>z1ncVUsxQ46PwDMUocPemzpWI80JBPZaZkgYITFoijI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -290,7 +290,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OMCLJItkbsMg+A5S8NVgB8MRCeA6JrAlCeAtWaIf3dU=</dsig:DigestValue>
+        <dsig:DigestValue>BClR+phJ7BTBIuyyhTXDuB5WeCjPKfSV0KzWUafPXeU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -302,7 +302,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>WS33ZT5S4wtY6JaXkzoFqHXWc9BVEfC/5ax6LZ6w0Qo=</dsig:DigestValue>
+        <dsig:DigestValue>eHSn2Phf68ULSK+J7YMInUql8n9dAOgz/yAyMlQmWxc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -314,7 +314,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>j561VeI/KDfDpA6WhprGDQjN3JC3rbWlXZ3NFzIk6yQ=</dsig:DigestValue>
+        <dsig:DigestValue>qo1SxuPu1lNle2CxDyifREnJ2OCDTe3E7i6kKJk+248=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -326,7 +326,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZK6PzqUezEl0kgiOYfSg4Vlm6Qo3VF4c2cr1r2Cvvxw=</dsig:DigestValue>
+        <dsig:DigestValue>E1U5u0MY6TFgjvGaZdAG+nQ7fvjWabOwS41JRf/5wM8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -338,7 +338,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>yva04XwkUwm0LcQs4tNhBFOZ/26AVtPnQF8GO6ON+Sw=</dsig:DigestValue>
+        <dsig:DigestValue>4328nrCmmapnWBXea3UWp+Gi6v3Mnq1IlVP7sPux7uw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -350,7 +350,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZIxCMVHLExSmrgy4nj0AKg38zMS8ea87rsSORglW+xc=</dsig:DigestValue>
+        <dsig:DigestValue>n4PziK+M5ZckQiE/S68bAW09Jy7bDW52ufqjJsbhaXM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -362,7 +362,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Dq7o+/hvLZIMem9ARPNorZ/FuZCA08Caa1S188m/D0o=</dsig:DigestValue>
+        <dsig:DigestValue>8kCaPHKwP1FsPFeRt7/lxwUcfeRWyUQO7Vp4xk0uAH4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -374,7 +374,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HSjnaqf5JX5nwFileRa68n2I6aQ1r8+W024XLTnaWZ4=</dsig:DigestValue>
+        <dsig:DigestValue>bhohABboPo8L6BVRsIXW8Uy6ozRH4duO7gSgkR9oDCk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -386,7 +386,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>N1D37wJMVwoAQ/Qh527AVHM5wMKBM6fyDYwBJPd7kdM=</dsig:DigestValue>
+        <dsig:DigestValue>sU3rqmhtM01oZiSbhFvZ13fxIyyx4QJzi8s3kJkgnpc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -398,7 +398,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ApuXnuJDgJT6kx8bgCeEmSeGw95PF6RmSnCi0yDEYeQ=</dsig:DigestValue>
+        <dsig:DigestValue>tar9vG0SeKUmsp4jhFY4t4GsZ53ai4MWqfI4k0xHMnA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -410,7 +410,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>hiXArB8rh2UGFJyziry6GuaBNQiUkCqrEwxQV1AVZvc=</dsig:DigestValue>
+        <dsig:DigestValue>hd3jXs4R3WA5rOHTXlpy1vy/Q2B/2pNrBV/nblhoEpI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -422,7 +422,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>thPtuJVtlkhUpxo87PDTXtrHl8asQK/YSfCwLBiugzE=</dsig:DigestValue>
+        <dsig:DigestValue>wE5C4rj1pJHuR5a9CSAxnaKKdk6z7cb8yX9clPNLqms=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -521,4 +521,4 @@
       <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>-->
     </application>
   </compatibility>
-<publisherIdentity name="CN=Dan Walmsley, O=Vital Element Solutions, E=dan@walms.co.uk, C=UK" issuerKeyHash="4f6eea54579dd48d744464da21e916f8809ba758" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>dOj8Z9dlVwonyZclRDBh7ABfzB8=</DigestValue></Reference></SignedInfo><SignatureValue>LjiQavaC8wQ618DWPQikTdSw44ggOkP0DT/V+Y0efDXgb3qbx9C/GzzlH1ou7OJFGA2xGGuE63N+MLlCeb8MXU5c3V7y1kzCzP9B5ALt95etFnpPORNoBNrvwmD1NcanKVWJwp94UxDlytWvz3On7jnlUAEX2DF30/K39r8cxPo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qXibhiqOYxLw3gBxC9iu73MlorgZnEGbMQc2b+zC55C7JcvsgMQs7+2We5WN5y8MYZ6SgMfGgcuWOay092PmP+ZjOcWEQhC6+QnkDNkUUkPXVhjZM2AH+03INSamCvEMqteRCmAno/vfZqATUW3rZsUB4cJRPk4DYeFnIR7xx2E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1fcc5f00ec6130442597c9270a5765d767fce874" Description="" Url=""><as:assemblyIdentity name="VEStudio.exe" version="1.0.0.201" publicKeyToken="7b4c0027666875f4" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Dan Walmsley, O=Vital Element Solutions, E=dan@walms.co.uk, C=UK</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>cQwC5qaUYe4qTrJ5f66nQ708J8g=</DigestValue></Reference></SignedInfo><SignatureValue>GeNYy/u6MqEjUfWFxGkDCoRPxMg9uSvPydYxP71Kpz+gZ50DTGaXE/4DFEKnnQK5KegKuxQWoAWIXO3J5I7zc2g5tbTwv2qQLru+iNN0PfZU8Q+x4LRdXbOj0/T1V2op142EUvZZSkfQ2u5j1IFB1SAiQHCbFEjDUPap8/zs524=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qXibhiqOYxLw3gBxC9iu73MlorgZnEGbMQc2b+zC55C7JcvsgMQs7+2We5WN5y8MYZ6SgMfGgcuWOay092PmP+ZjOcWEQhC6+QnkDNkUUkPXVhjZM2AH+03INSamCvEMqteRCmAno/vfZqATUW3rZsUB4cJRPk4DYeFnIR7xx2E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIEXTCCA0WgAwIBAgIJARoTwc4UxegqMA0GCSqGSIb3DQEBBQUAMD8xCzAJBgNVBAYTAkdCMREwDwYDVQQKEwhBc2NlcnRpYTEdMBsGA1UEAxMUQXNjZXJ0aWEgUHVibGljIENBIDEwHhcNMTUwMzE1MjMyMDQ4WhcNMTUwNDE0MjMyMDQ4WjBmMQswCQYDVQQGEwJVSzEeMBwGCSqGSIb3DQEJARYPZGFuQHdhbG1zLmNvLnVrMSAwHgYDVQQKExdWaXRhbCBFbGVtZW50IFNvbHV0aW9uczEVMBMGA1UEAxMMRGFuIFdhbG1zbGV5MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpeJuGKo5jEvDeAHEL2K7vcyWiuBmcQZsxBzZv7MLnkLsly+yAxCzv7ZZ7lY3nLwxhnpKAx8aBy5Y5rLT3Y+Y/5mM5xYRCELr5CeQM2RRSQ9dWGNkzYAf7Tcg1JqYK8Qyq15EKYCej+99moBNRbetmxQHhwlE+TgNh4WchHvHHYQIDAQABo4IBtzCCAbMwDgYDVR0PAQH/BAQDAgbAMAwGA1UdEwEB/wQCMAAwgfAGA1UdIASB6DCB5TCB4gYKKwYBBAH8SQEBATCB0zCB0AYIKwYBBQUHAgIwgcMMgcBXYXJuaW5nOiBDZXJ0aWZpY2F0ZXMgYXJlIGlzc3VlZCB1bmRlciB0aGlzIHBvbGljeSB0byBpbmRpdmlkdWFscyB0aGF0IGhhdmUgbm90IGhhZCB0aGVpciBpZGVudGl0eSBjb25maXJtZWQuIERvIG5vdCB1c2UgdGhlc2UgY2VydGlmaWNhdGVzIGZvciB2YWx1YWJsZSB0cmFuc2FjdGlvbnMuIE5PIExJQUJJTElUWSBJUyBBQ0NFUFRFRC4wTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL3d3dy5nbG9iYWx0cnVzdGZpbmRlci5jb20vY3Jscy9Bc2NlcnRpYVB1YmxpY0NBMS5jcmwwPQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5nbG9iYWx0cnVzdGZpbmRlci5jb20wEwYDVR0lBAwwCgYIKwYBBQUHAwMwDQYJKoZIhvcNAQEFBQADggEBAIh32a561xrKTOZBmrS9b5xNMApCmnjRnfiC6205/Pj//CLKRNBEXMw1zKYanYYgDDBJfTPAOn5DeIYk4SULIuydfhG969CMf+3kpOzkatRzsRPx280ytlymReNJ+c+hYJSrLA9OACcuJhZNCx4BKpY/aoeZ2Ax01FoUvld19hWpKgxKfR9dgccM5Cs0H0c2gsPPoJnt91MVTn1+AdOH/vZFEIcnKPds4V2ADAVmxTkyF32nkBCIopu36ADuU3W4ZnNDZ/XlK3iFVGqvjQzmc5uzqy0h9GwjrnSu6640T/Jl542r1zXxR7KOTy92MD1cX+dbYNA3trNVsagWWp3pHsw=</X509Certificate><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=Dan Walmsley, O=Vital Element Solutions, E=dan@walms.co.uk, C=UK" issuerKeyHash="4f6eea54579dd48d744464da21e916f8809ba758" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>yw7kRhy6e5fdqtT57J62kSLVCxo=</DigestValue></Reference></SignedInfo><SignatureValue>K68is6Dc/kib6qmusN+revP0mDvrdFnfHlOYZKNRW3Ry/plsDZuC45SfoQgwLO8JLo81wgqo1KpxeL0Rfl26OFSF08i371pg3SlmnALe4K1T6Kak2GgEgqpLZodPy3UaJ3NN4VgK+h8pGJss9/L0h4ZfblGskXZiZ8mkr3xjg+k=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qXibhiqOYxLw3gBxC9iu73MlorgZnEGbMQc2b+zC55C7JcvsgMQs7+2We5WN5y8MYZ6SgMfGgcuWOay092PmP+ZjOcWEQhC6+QnkDNkUUkPXVhjZM2AH+03INSamCvEMqteRCmAno/vfZqATUW3rZsUB4cJRPk4DYeFnIR7xx2E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1a0bd52291b69eecf9d4aadd977bba1c46e40ecb" Description="" Url=""><as:assemblyIdentity name="VEStudio.exe" version="1.0.0.201" publicKeyToken="7b4c0027666875f4" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Dan Walmsley, O=Vital Element Solutions, E=dan@walms.co.uk, C=UK</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>chWiMvrcG+5WJnsvGhGFz+rHQFk=</DigestValue></Reference></SignedInfo><SignatureValue>IvipR7/oU4WEYDGWtnXPMDqZyTat3VpLm2Dir8r5aMCkv8R8AC4SeKO1k5EEis8ovHQaZiP1ENGMlxVj5k7+ITeMyDLels27JAYR3sC0v5mGshtHp7zzTACcwr1caz/rE5AOpQ8/E/PDB3vQ26gNis+tD5lSoK2sGJdSA6/9Tmk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qXibhiqOYxLw3gBxC9iu73MlorgZnEGbMQc2b+zC55C7JcvsgMQs7+2We5WN5y8MYZ6SgMfGgcuWOay092PmP+ZjOcWEQhC6+QnkDNkUUkPXVhjZM2AH+03INSamCvEMqteRCmAno/vfZqATUW3rZsUB4cJRPk4DYeFnIR7xx2E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIEXTCCA0WgAwIBAgIJARoTwc4UxegqMA0GCSqGSIb3DQEBBQUAMD8xCzAJBgNVBAYTAkdCMREwDwYDVQQKEwhBc2NlcnRpYTEdMBsGA1UEAxMUQXNjZXJ0aWEgUHVibGljIENBIDEwHhcNMTUwMzE1MjMyMDQ4WhcNMTUwNDE0MjMyMDQ4WjBmMQswCQYDVQQGEwJVSzEeMBwGCSqGSIb3DQEJARYPZGFuQHdhbG1zLmNvLnVrMSAwHgYDVQQKExdWaXRhbCBFbGVtZW50IFNvbHV0aW9uczEVMBMGA1UEAxMMRGFuIFdhbG1zbGV5MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpeJuGKo5jEvDeAHEL2K7vcyWiuBmcQZsxBzZv7MLnkLsly+yAxCzv7ZZ7lY3nLwxhnpKAx8aBy5Y5rLT3Y+Y/5mM5xYRCELr5CeQM2RRSQ9dWGNkzYAf7Tcg1JqYK8Qyq15EKYCej+99moBNRbetmxQHhwlE+TgNh4WchHvHHYQIDAQABo4IBtzCCAbMwDgYDVR0PAQH/BAQDAgbAMAwGA1UdEwEB/wQCMAAwgfAGA1UdIASB6DCB5TCB4gYKKwYBBAH8SQEBATCB0zCB0AYIKwYBBQUHAgIwgcMMgcBXYXJuaW5nOiBDZXJ0aWZpY2F0ZXMgYXJlIGlzc3VlZCB1bmRlciB0aGlzIHBvbGljeSB0byBpbmRpdmlkdWFscyB0aGF0IGhhdmUgbm90IGhhZCB0aGVpciBpZGVudGl0eSBjb25maXJtZWQuIERvIG5vdCB1c2UgdGhlc2UgY2VydGlmaWNhdGVzIGZvciB2YWx1YWJsZSB0cmFuc2FjdGlvbnMuIE5PIExJQUJJTElUWSBJUyBBQ0NFUFRFRC4wTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL3d3dy5nbG9iYWx0cnVzdGZpbmRlci5jb20vY3Jscy9Bc2NlcnRpYVB1YmxpY0NBMS5jcmwwPQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5nbG9iYWx0cnVzdGZpbmRlci5jb20wEwYDVR0lBAwwCgYIKwYBBQUHAwMwDQYJKoZIhvcNAQEFBQADggEBAIh32a561xrKTOZBmrS9b5xNMApCmnjRnfiC6205/Pj//CLKRNBEXMw1zKYanYYgDDBJfTPAOn5DeIYk4SULIuydfhG969CMf+3kpOzkatRzsRPx280ytlymReNJ+c+hYJSrLA9OACcuJhZNCx4BKpY/aoeZ2Ax01FoUvld19hWpKgxKfR9dgccM5Cs0H0c2gsPPoJnt91MVTn1+AdOH/vZFEIcnKPds4V2ADAVmxTkyF32nkBCIopu36ADuU3W4ZnNDZ/XlK3iFVGqvjQzmc5uzqy0h9GwjrnSu6640T/Jl542r1zXxR7KOTy92MD1cX+dbYNA3trNVsagWWp3pHsw=</X509Certificate><X509Certificate>MIIHIjCCBgqgAwIBAgICAOYwDQYJKoZIhvcNAQEFBQAwPTELMAkGA1UEBhMCR0IxETAPBgNVBAoTCEFzY2VydGlhMRswGQYDVQQDExJBc2NlcnRpYSBSb290IENBIDIwHhcNMDkwNDIxMTIxNTE3WhcNMjgwNDE0MjM1OTU5WjA/MQswCQYDVQQGEwJHQjERMA8GA1UEChMIQXNjZXJ0aWExHTAbBgNVBAMTFEFzY2VydGlhIFB1YmxpYyBDQSAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz1jyM8Sz2R35TxHbuOO21rynITdXLnupDJSzyxLwR1rOIXBeE4OcPsyj/p69U9bYMGQ/im5dxBtSsBH12QjQTvYET/7/JHJfDay0qnw0+NsKWCZrNLusaTQozPGFa5IXkJXen4vx36OK1RBIVnhxOV40nWi7mrMJ8/1kDiddiJ46zsTnbvH78h1R7euH1tO5wTCPjafJzV0P635/BJtfRsYHsz/NupWxV/Sbb+a0ihhlKuAPQAAORHDAfvgGerVqMxf0mzEZNUS9GwY5+pZp56JVlGnfIY3B0Qn2nuuYpnMgodWZdwgiufzpHbPoWfDSEHCaKQ4tzuxEOHMXckE3ZQIDAQABo4IEKDCCBCQwDgYDVR0PAQH/BAQDAgEGMBIGA1UdEwEB/wQIMAYBAf8CAQIwgfAGA1UdIASB6DCB5TCB4gYKKwYBBAH8SQEBATCB0zCB0AYIKwYBBQUHAgIwgcMagcBXYXJuaW5nOiBDZXJ0aWZpY2F0ZXMgYXJlIGlzc3VlZCB1bmRlciB0aGlzIHBvbGljeSB0byBpbmRpdmlkdWFscyB0aGF0IGhhdmUgbm90IGhhZCB0aGVpciBpZGVudGl0eSBjb25maXJtZWQuIERvIG5vdCB1c2UgdGhlc2UgY2VydGlmaWNhdGVzIGZvciB2YWx1YWJsZSB0cmFuc2FjdGlvbnMuIE5PIExJQUJJTElUWSBJUyBBQ0NFUFRFRC4wggEzBgNVHQ4EggEqBIIBJjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM9Y8jPEs9kd+U8R27jjtta8pyE3Vy57qQyUs8sS8EdaziFwXhODnD7Mo/6evVPW2DBkP4puXcQbUrAR9dkI0E72BE/+/yRyXw2stKp8NPjbClgmazS7rGk0KMzxhWuSF5CV3p+L8d+jitUQSFZ4cTleNJ1ou5qzCfP9ZA4nXYieOs7E527x+/IdUe3rh9bTucEwj42nyc1dD+t+fwSbX0bGB7M/zbqVsVf0m2/mtIoYZSrgD0AADkRwwH74Bnq1ajMX9JsxGTVEvRsGOfqWaeeiVZRp3yGNwdEJ9p7rmKZzIKHVmXcIIrn86R2z6Fnw0hBwmikOLc7sRDhzF3JBN2UCAwEAATBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vd3d3LmFzY2VydGlhLmNvbS9PbmxpbmVDQS9jcmxzL0FzY2VydGlhUm9vdENBMi9Bc2NlcnRpYVJvb3RDQTIuY3JsMD0GCCsGAQUFBwEBBDEwLzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3AuZ2xvYmFsdHJ1c3RmaW5kZXIuY29tMIIBNwYDVR0jBIIBLjCCASqAggEmMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlje+nuDZPqaGExf2SvOpB/MWaNV/RBZH8yGfffzk/6T0C77N9MIGA+LsoUQUxZChn9HR9x4ys9TfUhSbndHqm8bR92D6/K1Ix5MY619+C8QhVgTaI+E9xcNyxp06RnjusRGhAwHb3SJ5twSb6RuFVhEt2e0ibXmiG5DZqg59A4UaTBV4jSoGSjViHCTNWRlvfjmTu78VGazjwX3HqZVoO9E6K3PEwWC+z79f4OpLmQjuw8dZxemoIvRgiB0ZDK3I4LiKpIPKki/ilscFriovGBwRuIu7yILxzii9pZ5naHut1kQBvcFB2+vHbsAXNbSAD6mpvdDEKzMoUxs4cCO2gwIDAQABMA0GCSqGSIb3DQEBBQUAA4IBAQCUlJehoxOZuoZKXItliz6CTKxvdEwC24oBmUtc02C7CMFMX8dFZ3YUf2FO3VEH+bxT4c0H/ZsJvb4nU/VsHeloNIZg4k/C4ecu0+F8qo7jCjd3Ke3gxZK0glIb0/C4Np/6sXniTA94IbRYaMl7SOQP+gpjxwZHDTLUGQITkSo6SeNcEmvrx+r9U8wvKLcPsbsYMgJDv4UZppgSIBg7sMSny63QUEWVngUZlqh+4K0JRNIGGKQRUuBZaK8Aao4iA6ehR+djqy0vYC1dn9XpsTEAJcIdyzAZsL1LU0LPvvDPKF9hKV2QiB3qDhBRDG85hL+CPPMqKBycXEy9Nur3Jf9S</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
