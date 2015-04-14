@@ -16,7 +16,7 @@ highlighter: pygments
 
 ### content configuration ###
 title:       "VitalElement Studio"
-keywords:    "embedded, ide, arm, cortex, pic32, free, windows"
+keywords:    "embedded, ide, arm, cortex, pic32, free, windows, toolchain, coocox, keil, uvision, eclipse, ds5, microchip, stm32, opensource"
 description: "A free IDE for embedded systems."
 source_link: "http://vitalelement.github.io/"
 favicon:     "img/favicon.ico"
