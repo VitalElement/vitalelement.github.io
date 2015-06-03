@@ -14,14 +14,14 @@
     <framework targetVersion="4.6" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\VEStudio_1_0_0_222\VEStudio.exe.manifest" size="22512">
+    <dependentAssembly dependencyType="install" codebase="Application Files\VEStudio_1_0_0_222\VEStudio.exe.manifest" size="22511">
       <assemblyIdentity name="VEStudio.exe" version="1.0.0.222" publicKeyToken="0000000000000000" language="en" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mDuKSHpDGCfrFHqLsHK7Wed5qrztWdgA51zb8/QrTG4=</dsig:DigestValue>
+        <dsig:DigestValue>EyByRNcTso39rybB78BccO6cokeT/XJUk0TJkhy8t0o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
