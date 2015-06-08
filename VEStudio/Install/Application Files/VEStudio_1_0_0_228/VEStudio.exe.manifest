@@ -223,14 +223,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VEStudio.exe" size="1707008">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VEStudio.exe" size="1711104">
       <assemblyIdentity name="VEStudio" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HtIf1Wjhp+EOvFCYmOpLZrSH+XVP1UtU652UZy0uddE=</dsig:DigestValue>
+        <dsig:DigestValue>BqWfbLiyd0X8WRER2+SEHHIgkONDntnqkxlHYv37nNE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -247,14 +247,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VEStudio.Models.dll" size="265216">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VEStudio.Models.dll" size="266240">
       <assemblyIdentity name="VEStudio.Models" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FAZmfCd/ZX+YlufzA8N3QFdlMrSliovglqF57L2+qHQ=</dsig:DigestValue>
+        <dsig:DigestValue>97fSlU4G6hKGlqSoT/7djfnd8cQd8J5uU5VCWHZbn/Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -266,7 +266,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>u0SFtt2bst1K2HUVN69ZMeaDYXUMspYwq/ZVuDMI8Iw=</dsig:DigestValue>
+        <dsig:DigestValue>t++LQXdwi8bLAAb9lOim67sGOc813toz3H1tMPKNvlc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -302,7 +302,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BoEvduvGCO/RkqQBtya1wLzLTrBY4goALaWVA+Z/7gY=</dsig:DigestValue>
+        <dsig:DigestValue>mkegaGcjdlvEpm22AoYS1dY/Bzhl15mnzNzxql/Y0Ms=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
