@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="VEStudio.exe" version="1.0.0.274" publicKeyToken="0000000000000000" language="en" processorArchitecture="x86" type="win32" />
+  <asmv1:assemblyIdentity name="VEStudio.exe" version="1.0.0.275" publicKeyToken="0000000000000000" language="en" processorArchitecture="x86" type="win32" />
   <description asmv2:iconFile="vestudio.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -199,14 +199,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NClang.dll" size="97280">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NClang.dll" size="89088">
       <assemblyIdentity name="NClang" version="0.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>T6kJASY541DGphHt915tBdcjxa17mAqBF+rReolvBBs=</dsig:DigestValue>
+        <dsig:DigestValue>hFDwS1R3ekvQ11RngvOr0bX3LOGBMcqBLb9Yd67Sg/0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -235,14 +235,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VEStudio.exe" size="1936896">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VEStudio.exe" size="1760768">
       <assemblyIdentity name="VEStudio" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fW1N8aZfhu1eVciM8mE4X+a/0NxKmMNvPwsa6rmiI8U=</dsig:DigestValue>
+        <dsig:DigestValue>NiS560501EcnkRsH6/J7OmPsUUm1e4tQetShJrb70Wg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -254,79 +254,79 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dZhZrbmQ+vDfp8ALTKVZX8EEtgCqBsjCcc7fMIZcsY4=</dsig:DigestValue>
+        <dsig:DigestValue>PSXAsnRHZsNV4PeHZSAdNEWRBsAIwtcfxwyN8F2/x5c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VEStudio.DataCentre.dll" size="48128">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VEStudio.DataCentre.dll" size="46080">
       <assemblyIdentity name="VEStudio.DataCentre" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BhSUShHY4lggKoLY+gkmHzwHvdCCdGIVNG9Oj2E4BTU=</dsig:DigestValue>
+        <dsig:DigestValue>6CHlZlTRgr1Yaf2DST+kmmMz8dY1ZnC3/u+hlfdblI8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VEStudio.Models.dll" size="314880">
-      <assemblyIdentity name="VEStudio.Models" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VEStudio.Models.dll" size="283136">
+      <assemblyIdentity name="VEStudio.Models" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gKnI0Oig+cGuDKPwrqOGvyl5shQ0SwsaQTiCiTmev4w=</dsig:DigestValue>
+        <dsig:DigestValue>ghxdE66vhgQlWjuQsAvZtlw5KztnFqln7rMFBktsjWA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VEStudio.MVVM.dll" size="25088">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VEStudio.MVVM.dll" size="23552">
       <assemblyIdentity name="VEStudio.MVVM" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YfylPSc1M1wJvd1cShvQ3Sf4PwXua6r35hip8Z/aieQ=</dsig:DigestValue>
+        <dsig:DigestValue>9Fgb/R7bOOtln6bfc90+xCDXTzV3xEtyH/zl4ZwNdDY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Xceed.Wpf.AvalonDock.dll" size="449536">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Xceed.Wpf.AvalonDock.dll" size="407552">
       <assemblyIdentity name="Xceed.Wpf.AvalonDock" version="2.0.0.0" publicKeyToken="3E4669D2F30244F4" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>j8H6DR4T8GoGisPsNm4s+S+uf7MjOaRf4i3kUkj89jc=</dsig:DigestValue>
+        <dsig:DigestValue>NAQ+8XMYIL/NNIrAQvlG2hpRXR2pZKIQQ0qRVJQQb4E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Xceed.Wpf.AvalonDock.Themes.Expression.dll" size="160256">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Xceed.Wpf.AvalonDock.Themes.Expression.dll" size="131584">
       <assemblyIdentity name="Xceed.Wpf.AvalonDock.Themes.Expression" version="2.0.0.0" publicKeyToken="3E4669D2F30244F4" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BKljEptxeZCHVFEVqHOdKYu/7R6HuW/upsGvrXLnPwM=</dsig:DigestValue>
+        <dsig:DigestValue>N3PQfZCtPoLqr43N5v6gqSj34to39ghaWA90MTffiu8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Xceed.Wpf.AvalonDock.Themes.Metro.dll" size="153600">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Xceed.Wpf.AvalonDock.Themes.Metro.dll" size="122368">
       <assemblyIdentity name="Xceed.Wpf.AvalonDock.Themes.Metro" version="2.0.0.0" publicKeyToken="3E4669D2F30244F4" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>04DxFCpp8oH7JnLtLJZF+AYWdCH7VQEfhyfiMh3Hbbk=</dsig:DigestValue>
+        <dsig:DigestValue>1SodQoEareJ58urJv3EKCHDMyfi1oNdD/TOS4D8Upiw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
