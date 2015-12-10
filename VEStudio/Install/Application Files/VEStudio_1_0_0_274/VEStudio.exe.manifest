@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="VEStudio.exe" version="1.0.0.273" publicKeyToken="0000000000000000" language="en" processorArchitecture="x86" type="win32" />
+  <asmv1:assemblyIdentity name="VEStudio.exe" version="1.0.0.274" publicKeyToken="0000000000000000" language="en" processorArchitecture="x86" type="win32" />
   <description asmv2:iconFile="vestudio.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -242,7 +242,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>t8z0lVfhJpChsRbQ6jo02qnfS5RApmLIqbiK1zejGsE=</dsig:DigestValue>
+        <dsig:DigestValue>fW1N8aZfhu1eVciM8mE4X+a/0NxKmMNvPwsa6rmiI8U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -254,7 +254,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>V29565wp3XkXAdPZtFpFGxOCXzTBw3t+kzNZgClrgvc=</dsig:DigestValue>
+        <dsig:DigestValue>dZhZrbmQ+vDfp8ALTKVZX8EEtgCqBsjCcc7fMIZcsY4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -278,7 +278,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Xz/t/t2jmvwKJHntrbXMZ+Y2kNJn/8DRhMde7I4BbC0=</dsig:DigestValue>
+        <dsig:DigestValue>gKnI0Oig+cGuDKPwrqOGvyl5shQ0SwsaQTiCiTmev4w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
